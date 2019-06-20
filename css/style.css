@@ -1,0 +1,71 @@
+html , body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+
+	padding: 5%;
+	
+}
+
+.container {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	background-color: #22B573;
+	border: 4px solid #006837;
+
+}
+
+	
+	
+.navigation {
+	position:relative;
+	top: 37px;
+	left: 37px;
+}
+
+.navbar-a{
+
+	color: #fff;
+	font-size: 48px;
+	float:left;
+	text-decoration: none;
+	margin-right: 3.4%;
+
+}
+
+.logo1 {
+	position: absolute;
+	height: 93%;
+	top:7%;
+	right: 2%;
+}
+
+.whitebox{
+	background-color: #fff;
+	position: absolute;
+	top: 40%;
+	right:45%;
+	height:60%;
+	width: 55%;
+
+
+}
+.green-box2{
+	background-color: #006837;
+	position: absolute;
+	height: 50%;
+	width: 50%;
+	top: 25%;
+	left: 25%;
+}
+.text {
+	color: #FFFF00;
+	font-size: 35px;
+	position: absolute;
+	top: 40%;
+	left: 24%;
+	transform: rotate(30deg);
+}
